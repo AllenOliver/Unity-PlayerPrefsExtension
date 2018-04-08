@@ -1,4 +1,4 @@
-# PlayerPrefs Boolean Extention
+# PlayerPrefs Boolean Extension
 > Adds Get and Set bool options to the Playerprefs in unity
 
 
@@ -27,7 +27,7 @@ Pull CS file into unity project and call it where needed in script
 
 ```sh
 Add to project
-call "var value = PlayerPresExtention.GetBool("YourBool", true)"
+call "var value = PlayerPresExtension.GetBool("YourBool", true)"
 ```
 
 ## Release History
