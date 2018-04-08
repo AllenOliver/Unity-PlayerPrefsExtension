@@ -4,7 +4,7 @@
 /// Extends the Player Prefs system to allow the use of Bools
 /// Allen Oliver 04/08/2018
 /// </summary>
-public class PlayerPrefsExtention : MonoBehaviour {
+public class PlayerPrefsExtension : MonoBehaviour {
 
     /// <summary>
     /// Sets the bool with a key and a value
