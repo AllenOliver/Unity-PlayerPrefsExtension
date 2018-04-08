@@ -40,6 +40,6 @@ call "var value = PlayerPresExtension.GetBool("YourBool", true)"
 
 AriBaa Games – [@AriBaaLLC](https://twitter.com/aribaallc)
 
-If you like, consider donating on my [Patreon] (https://www.patreon.com/AriBaa/)
+If you like, consider donating on my [Patreon](https://www.patreon.com/AriBaa/)
 ! I give away a lot of dev tools over there. :D
 
