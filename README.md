@@ -39,8 +39,7 @@ call "var value = PlayerPresExtension.GetBool("YourBool", true)"
 ## Meta
 
 AriBaa Games – [@AriBaaLLC](https://twitter.com/aribaallc)
-
-[https://github.com/AllenOliver/Unity-PlayerPrefsExtention](https://github.com/allenoliver/)
-
+If you like, consider donating on my Patreon! I give away a lot of dev tools over there. :D
+[https://www.patreon.com/AriBaa](https://www.patreon.com/AriBaa)
 
 
