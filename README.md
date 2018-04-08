@@ -19,9 +19,7 @@ Just add to unity project :]
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+Can be used to set flags, tell if a play has beaten the game, if an obk=ject has been accessed/activated, etc!
 
 ## Development setup
 
@@ -40,7 +38,7 @@ call "var value = PlayerPresExtention.GetBool("YourBool", true)"
 
 ## Meta
 
-Your Name – [@AriBaaLLC](https://twitter.com/aribaallc) – YourEmail@example.com
+AriBaa Games – [@AriBaaLLC](https://twitter.com/aribaallc)
 
 [https://github.com/AllenOliver/Unity-PlayerPrefsExtention](https://github.com/allenoliver/)
 
