@@ -39,7 +39,8 @@ call "var value = PlayerPresExtension.GetBool("YourBool", true)"
 ## Meta
 
 AriBaa Games – [@AriBaaLLC](https://twitter.com/aribaallc)
-If you like, consider donating on my Patreon! I give away a lot of dev tools over there. :D
-[https://www.patreon.com/AriBaa](https://www.patreon.com/AriBaa)
-
+```sh
+>If you like, consider donating on my Patreon! I give away a lot of dev tools over there. :D
+>[https://www.patreon.com/AriBaa](https://www.patreon.com/AriBaa)
+```
 
